@@ -1,5 +1,7 @@
 # Three.js portfolio site
 
+![Demo coming soon](.github/readme/demo-placeholder.svg)
+
 ## Tools used
 
 - <img src="https://cdn.simpleicons.org/threedotjs/black/white" width="16" height="16" alt=""> three.js
