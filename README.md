@@ -1,6 +1,6 @@
 # Three.js portfolio site
 
-![Demo coming soon](.github/readme/demo-placeholder.svg)
+!["insert demo gif here"](.github/readme/demo-placeholder.svg)
 
 ## Tools used
 
@@ -10,4 +10,4 @@
 - <img src=".github/readme/procreate.png" width="16" height="16" alt=""> Procreate
 - <img src="https://cdn.simpleicons.org/figma" width="16" height="16" alt=""> Figma
 
-Created with love by Nathan Davis.
+Created with love by Nathan Davis
